@@ -1,4 +1,4 @@
-# # Drug Abuse Image Generation & Progression Prediction
+# Drug Abuse Image Generation & Progression Prediction
 
 ## 📌 Overview
 
